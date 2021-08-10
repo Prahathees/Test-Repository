@@ -10,5 +10,8 @@ public class Medicine {
 	public void dental() {
 		System.out.println("dental");
 			}
+	public void child() {
+System.out.println("ppp");
+	}
 
 }
